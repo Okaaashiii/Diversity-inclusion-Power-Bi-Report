@@ -14,7 +14,7 @@ Setup Instructions
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/diversity-dashboard.git
+git clone https://github.com/Okaaashiii/diversity-dashboard.git
 Open the Power BI Desktop Application.
 Load the dataset:
 Navigate to File > Open Report.
